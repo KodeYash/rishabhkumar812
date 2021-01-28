@@ -5,15 +5,9 @@
 - 😄 I have programming knowledge in C, C++, Kotlin and Java.
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhkumar812&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumar812&show_icons=true&theme=radical)
-
 <a href="https://github.com/rishabhkumar812/rishabhkumar812">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rishabhkumar812&repo=rishabhkumar812" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumar812&repo=rishabhkumar812" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rishabhkumar812&show_icons=true&theme=radical&repo=rishabhkumar812" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumar812&show_icons=true&theme=radical&repo=rishabhkumar812" />
 </a>
 
 <!--
