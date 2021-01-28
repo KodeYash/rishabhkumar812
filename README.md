@@ -1,4 +1,4 @@
-##Hey there 👋
+## **Hey there 👋**
 
 - 🔭 I’m currently working on  Android Apps.
 - 🌱 I’m currently learning Android App Development and Data Structures and Algorithm.
@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumar812&show_icons=true&theme=radical)]
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/rishabhkumar812/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumar812&repo=github-readme-stats" />
 </a>
 
