@@ -1,8 +1,8 @@
 ## **Hey there 👋**
 
-- 🔭 I’m currently working on  Android Apps.
-- 🌱 I’m currently learning Android App Development and Data Structures and Algorithm.
-- 😄 I have programming knowledge in C, C++, Kotlin and Java.
+- 🔭 I know several programming languages like C, C++, Python, Kotlin, Java.
+- 🌱 I can further write xml and sql.
+- 😄 I love making android apps. Further I have interest in Machine Learning.
 
 
 <a href="https://github.com/rishabhkumar812/rishabhkumar812">
