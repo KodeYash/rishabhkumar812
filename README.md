@@ -1,7 +1,7 @@
 ## **Hey there 👋**
 
 - 🔭 I know several programming languages like C, C++, Python, Kotlin, Java.
-- 🌱 I can further write xml and sql.
+- 🌱 I can write xml and sql too.
 - 😄 I love making android apps. Further I have interest in Machine Learning.
 
 
