@@ -15,9 +15,10 @@
 </div>
 
 <br>
-<a href="https://github.com/rishabhkumar812/rishabhkumar812">
+<div align="center">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rishabhkumar812&show_icons=true&theme=radical&repo=rishabhkumar812" />
- </a>
+<br>
+</div>
 
 <!--
 **rishabhkumar812/rishabhkumar812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
