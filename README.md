@@ -6,10 +6,13 @@
 - 😄 I love making android apps. Further I have interest in Machine Learning.
 
 
-<a href="https://github.com/rishabhkumar812/rishabhkumar812">
+<br>
+<div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumar812&show_icons=true&theme=radical&repo=rishabhkumar812" />
+  <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkumar812&theme=midnight-purple" alt="rishabhkumar812" />
-</a>
+<br>
+</div>
 
 <br>
 <a href="https://github.com/rishabhkumar812/rishabhkumar812">
