@@ -8,15 +8,15 @@
 
 <br>
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumar812&show_icons=true&theme=radical&repo=rishabhkumar812" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumar812&show_icons=true&theme=radical&repo=rishabhkumar812&count_private=true&langs_count=10" />
   <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkumar812&theme=midnight-purple" alt="rishabhkumar812" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkumar812&theme=radical&count_private=true" alt="rishabhkumar812" />
 <br>
 </div>
 
 <br>
 <div align="center">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=rishabhkumar812&show_icons=true&theme=radical&repo=rishabhkumar812" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=rishabhkumar812&show_icons=true&theme=radical&repo=rishabhkumar812&count_private=true" />
 <br>
 </div>
 
