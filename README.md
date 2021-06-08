@@ -1,9 +1,9 @@
 # **Hey there 👋**
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rishabhkumar812&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkumar812" /> </p>
 
-- 🔭 I know several programming languages like C, C++, Python, Kotlin, Java.
-- 🌱 I can write xml and sql too.
-- 😄 I love making android apps. Further I have interest in Machine Learning.
+- 🔭 Know several programming languages like C, C++, Python, Kotlin, Java.
+- 🌱 Can write xml and sql and pl/sql too.
+- 😄 Love making android apps and have interest in Machine Learning.
 
 
 <br>
